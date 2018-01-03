@@ -10,8 +10,7 @@
         }
     ],
     "require": {
-        "php": ">=7",
-        "symfony/symfony": "^3.2 || ^4.0"
+        "php": ">=7"
     },
     "autoload": {
         "psr-4": {
